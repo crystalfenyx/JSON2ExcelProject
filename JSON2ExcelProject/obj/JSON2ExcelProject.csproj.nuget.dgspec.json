@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\csapct86\\Desktop\\JSON2ExcelProject\\JSON2ExcelProject\\JSON2ExcelProject.csproj": {}
+    "/Users/dominiqueashleywang/JSON2ExcelProject/JSON2ExcelProject/JSON2ExcelProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\csapct86\\Desktop\\JSON2ExcelProject\\JSON2ExcelProject\\JSON2ExcelProject.csproj": {
+    "/Users/dominiqueashleywang/JSON2ExcelProject/JSON2ExcelProject/JSON2ExcelProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\csapct86\\Desktop\\JSON2ExcelProject\\JSON2ExcelProject\\JSON2ExcelProject.csproj",
+        "projectUniqueName": "/Users/dominiqueashleywang/JSON2ExcelProject/JSON2ExcelProject/JSON2ExcelProject.csproj",
         "projectName": "JSON2ExcelProject",
-        "projectPath": "C:\\Users\\csapct86\\Desktop\\JSON2ExcelProject\\JSON2ExcelProject\\JSON2ExcelProject.csproj",
-        "packagesPath": "C:\\Users\\csapct86\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\csapct86\\Desktop\\JSON2ExcelProject\\JSON2ExcelProject\\obj\\",
+        "projectPath": "/Users/dominiqueashleywang/JSON2ExcelProject/JSON2ExcelProject/JSON2ExcelProject.csproj",
+        "packagesPath": "/Users/dominiqueashleywang/.nuget/packages/",
+        "outputPath": "/Users/dominiqueashleywang/JSON2ExcelProject/JSON2ExcelProject/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\csapct86\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/dominiqueashleywang/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -67,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.302/RuntimeIdentifierGraph.json"
         }
       }
     }

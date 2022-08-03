@@ -1,15 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "t+tKFod5R6EoazMRcvcp7nqSFXHDksvRpia6WmQrx0adTuP9PObQmRTaRf7KNsLIDpIsFiQtSfNH1JEXAztgGQ==",
+  "dgSpecHash": "HdkQ70M6tXl3y4ozoLZMXdCHfCvFC/mgI2pN8JlMD8jpji23YfIqLH+hBC0K0GCFPlpU1lxZ5r5BQovVysObOg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\csapct86\\Desktop\\JSON2ExcelProject\\JSON2ExcelProject\\JSON2ExcelProject.csproj",
+  "projectFilePath": "/Users/dominiqueashleywang/JSON2ExcelProject/JSON2ExcelProject/JSON2ExcelProject.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\csapct86\\.nuget\\packages\\gembox.spreadsheet\\49.0.1067\\gembox.spreadsheet.49.0.1067.nupkg.sha512",
-    "C:\\Users\\csapct86\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
-    "C:\\Users\\csapct86\\.nuget\\packages\\newtonsoft.json\\12.0.1\\newtonsoft.json.12.0.1.nupkg.sha512",
-    "C:\\Users\\csapct86\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512",
-    "C:\\Users\\csapct86\\.nuget\\packages\\portable.bouncycastle\\1.8.9\\portable.bouncycastle.1.8.9.nupkg.sha512",
-    "C:\\Users\\csapct86\\.nuget\\packages\\system.text.encoding.codepages\\5.0.0\\system.text.encoding.codepages.5.0.0.nupkg.sha512"
+    "/Users/dominiqueashleywang/.nuget/packages/gembox.spreadsheet/49.0.1067/gembox.spreadsheet.49.0.1067.nupkg.sha512",
+    "/Users/dominiqueashleywang/.nuget/packages/microsoft.netcore.platforms/5.0.0/microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "/Users/dominiqueashleywang/.nuget/packages/newtonsoft.json/12.0.1/newtonsoft.json.12.0.1.nupkg.sha512",
+    "/Users/dominiqueashleywang/.nuget/packages/newtonsoft.json.bson/1.0.2/newtonsoft.json.bson.1.0.2.nupkg.sha512",
+    "/Users/dominiqueashleywang/.nuget/packages/portable.bouncycastle/1.8.9/portable.bouncycastle.1.8.9.nupkg.sha512",
+    "/Users/dominiqueashleywang/.nuget/packages/system.text.encoding.codepages/5.0.0/system.text.encoding.codepages.5.0.0.nupkg.sha512"
   ],
   "logs": []
 }
