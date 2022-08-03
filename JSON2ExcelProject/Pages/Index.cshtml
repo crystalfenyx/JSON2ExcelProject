@@ -1,0 +1,28 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Convert JSON to Excel</p>
+
+
+</div>
+
+<form method="post">
+
+    <div class="form-group">
+        <label for="jsontext"><b>JSON Text</b></label>
+        <textarea class="form-control" rows="3" class="form-control" id="jsontext" name="jsontext" placeholder="Paste your JSON here"></textarea>
+    </div>
+
+
+    <button type="submit" class="btn btn-secondary" id="submit">Submit</button><br />
+
+</form>
+
+    <div class="blog post">
+         <p>@Model.UserInput</p>
+    </div>
